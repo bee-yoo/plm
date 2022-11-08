@@ -9,17 +9,17 @@
  - [免责声明](#免责声明)
 
 ## 模型介绍
+[官方介绍页面](https://yoo-ai.com/pre-training.html)
+
+## 模型下载
 
 |    模型    | 层数 | 特征数 | 参数量 |
 | :--------: | :--: | :----: | :----: |
 | 伯乐-base  |  12  |  768   |  117M  |
 | 伯乐-large |  36  |  1280  |  762M  |
 
-
-
-## 模型下载
-
  [下载链接](https://download.yoo-ai.com/resource/pretrain-model.zip)
+（目前只开放伯乐-base模型下载）
 
 ## 依赖安装
 使用 transformers 包加载
